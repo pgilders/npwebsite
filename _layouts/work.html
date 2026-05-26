@@ -8,13 +8,21 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="work">
+          {% if page.header_image %}
+          <img
+            src="{{ page.header_image.src | relative_url }}"
+            alt="{{ page.header_image.alt }}"
+            class="work-header-image"
+          />
+          {% endif %}
+
           <h1 class="page-heading">{{ page.title }}</h1>
           {{ content }}
 
           {% for item in page.items %}
           <div class="work-item">
             <img
-              src="{{ item.image.src | absolute_url }}"
+              src="{{ item.image.src | relative_url }}"
               alt="{{ item.image.alt }}"
               class="work-bubble"
             />

@@ -2,11 +2,14 @@
 layout: work
 title: Teaching
 slug: /teaching
+header_image:
+  src: /assets/img/teaching.jpg
+  alt: Teaching
 items:
 
 ---
 
-I am passionate about teaching and have made it a key focus during my doctoral studies. I have a proven record of delivering high-level teaching to both undergraduate and graduate students at multiple top research universities in a way that fosters confidence, diversity, and a positive learning environment.
+I am passionate about teaching and public engagement, and have made both a key part of my academic and policy work. I have experience delivering high-level teaching to undergraduate and graduate students at leading research universities in a way that fosters confidence, diversity, and a positive learning environment.
 
 I have taught on the following courses:
 
@@ -16,5 +19,4 @@ I have taught on the following courses:
 - *Technology and Gender* - Stanford University Programme for visiting students, University of Oxford
 - *Digital Capitalism and Its Inequalities* - Oxford Internet Institute, University of Oxford
 
-<br />
-<br />
+I have also worked on public engagement projects that use storytelling and creative practice to make technology policy more accessible, including *Move Fast and Break Things*, a Minderoo-Oxford Challenge Fund in AI Governance project with Freight Theatre and TORCH.

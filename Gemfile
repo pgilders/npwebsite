@@ -4,7 +4,14 @@ source "https://rubygems.org"
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
 #     bundle exec jekyll serve
-gem "jekyll", "~> 4.0.0"
+gem "jekyll", "~> 4.4"
+
+# Ruby 3.4 no longer loads some standard-library gems implicitly for older
+# Jekyll releases, so declare them explicitly.
+gem "base64", "~> 0.3"
+gem "bigdecimal", "~> 3.1"
+gem "csv", "~> 3.3"
+gem "logger", "~> 1.7"
 
 # Plugins
 group :jekyll_plugins do

@@ -1,11 +1,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Nayana Prakash
+title: Dr Nayana Prakash
 description: >- # this means to ignore newlines until "baseurl:"
-  "Nayana Prakash's personal webpage."
-baseurl: "/npwebsite" # the subpath of the site
-url: "https://pgilders.github.io" # the base hostname & protocol for the site
+  "Dr Nayana Prakash's personal webpage."
+baseurl: "" # custom domain serves this GitHub Pages project site at the domain root
+url: "https://nayanaprakash.com" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
@@ -14,25 +14,29 @@ header:
     - name: Home
       slug: /
     - name: Research
+    - name: Writing & Media
+      slug: /writing-media
     - name: Teaching
 
 footer:
   show_powered_by: true
   contact:
-    - name: Email
-      value: nayana.prakash@oii.ox.ac.uk
-      link: mailto:nayana.prakash@oii.ox.ac.uk
+    # - name: Email
+    #   value: n
+    #   link: mailto:
 #     - name: WeChat
 #       value: YourWeChatUsername
 #       link: "#"
   follow:
-    - name: Twitter
-      link: http://twitter.com/NayanaPrakash1
+    - name: LinkedIn
+      link: https://www.linkedin.com/in/dr-nayana-prakash-b6b12387/
+    - name: X
+      link: https://x.com/NayanaPrakash1
       username: "@NayanaPrakash1"
+    - name: Bluesky
+      link: https://bsky.app/profile/nayanaprakash.bsky.social
 #     - name: Facebook
 #       link: http://facebook.com/YourFacebookUsername
-    - name: LinkedIn
-      link: https://uk.linkedin.com/in/nayana-prakash-b6b12387
 #     - name: GitHub
 #       link: http://github.com/YourGitHubUsername
 #     - name: Dribbble
