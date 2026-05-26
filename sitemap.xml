@@ -3,14 +3,15 @@ layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% assign sitemap_pages = site.pages | where_exp: "item", "item.url == '/' or item.title" %}
-  {% for sitemap_page in sitemap_pages %}
-    {% unless sitemap_page.url == "/404.html" or sitemap_page.sitemap == false %}
+  {% for sitemap_page in site.pages %}
+    {% if sitemap_page.url == "/" or sitemap_page.title %}
+      {% unless sitemap_page.url == "/404.html" or sitemap_page.sitemap == false %}
       {% assign sitemap_url = sitemap_page.url | replace: "index.html","" | replace: ".html","" | absolute_url %}
   <url>
     <loc>{{ sitemap_url }}</loc>
   </url>
-    {% endunless %}
+      {% endunless %}
+    {% endif %}
   {% endfor %}
   {% for post in site.posts %}
     {% assign post_url = post.url | replace: "index.html","" | replace: ".html","" | absolute_url %}
