@@ -2,6 +2,7 @@
 layout: work
 title: Research
 slug: /research
+blurb: Research by Dr Nayana Prakash on digital storytelling platforms, technology governance, cyber security, AI, digital sovereignty, India, and the Global South.
 header_image:
   src: /assets/img/research.jpg
   alt: Research

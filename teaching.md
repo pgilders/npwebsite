@@ -2,6 +2,7 @@
 layout: work
 title: Teaching
 slug: /teaching
+blurb: Teaching and public engagement by Dr Nayana Prakash on technology, society, digital capitalism, gender, computation, and human rights.
 header_image:
   src: /assets/img/teaching.jpg
   alt: Teaching

@@ -2,6 +2,7 @@
 layout: work
 title: Writing & Media
 slug: /writing-media
+blurb: Writing, media commentary, talks, and public work by Dr Nayana Prakash on technology, politics, culture, India, and the Global South.
 header_image:
   src: /assets/img/media.jpg
   alt: Media appearance

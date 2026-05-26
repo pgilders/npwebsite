@@ -1,8 +1,9 @@
 ---
 layout: home
+blurb: Dr Nayana Prakash is a researcher and writer working across technology, politics, storytelling, and society, with a focus on India and the Global South.
 profile_picture:
   src: /assets/img/profile-pic.jpg
-  alt: website picture
+  alt: Dr Nayana Prakash
 ---
 
 
