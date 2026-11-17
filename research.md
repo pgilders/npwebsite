@@ -19,6 +19,7 @@ Beyond my thesis, I have worked on research projects with partners including UNI
 
 Selected research and policy work includes:
 
+- Powell, R., **Prakash, N.**, & Jung, C. (2026). [*Locked in: A realist's agenda for digital sovereignty*](https://www.ippr.org/articles/locked-in). Institute for Public Policy Research.
 - Hakmeh, J., Moynihan, H., & **Prakash, N.** (2026). [*Holding state-sponsored hackers and other cyber proxies to account: Lessons from tackling proxies in Russia's war on Ukraine*](https://www.chathamhouse.org/2026/03/holding-state-sponsored-hackers-and-other-cyber-proxies-account/about-authors). Chatham House. [https://doi.org/10.55317/9781784136772](https://doi.org/10.55317/9781784136772)
 - **Prakash, N.** (2025). [*The Empire Types Back: Colonialism and Resistance in Forms of Storytelling Online*](https://ora.ox.ac.uk/objects/uuid:43d5b8bc-104b-47f3-b566-a36833d28417) Doctoral dissertation, University of Oxford. Oxford University Research Archive.
 - **Prakash, N.** (2024). Readers, writers, and everything in between: Considering co-creative relationships on digital storytelling platform. *ACM SIGWEB Newsletter, 2024* (Spring), 1–7. [https://doi.org/10.1145/3663752.3663754](https://doi.org/10.1145/3663752.3663754)
